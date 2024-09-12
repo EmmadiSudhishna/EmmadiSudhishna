@@ -8,7 +8,7 @@ I'm a Full Stack Developer with a passion for creating dynamic web applications 
 - **AspireHub**: A Job Search Platform designed to help users find suitable job opportunities efficiently.
 - **QuickHealth**: An Online Doctor Consultation website that facilitates seamless virtual medical consultations.
 - **E-Commerce Website**: A dynamic platform built to provide a smooth and user-friendly online shopping experience.
-
+- **HandyHelpers**: A Home Services platform offering a user-friendly interface for booking and managing various home services.
 
 ### 🌱 I’m currently learning
 - Deepening my understanding of **JavaScript** and its advanced concepts.
